@@ -12,7 +12,7 @@ Optimisation of the supply chain requires balancing the costs and resources invo
 This project aims to develop a machine learning model that can optimize the supply chain process via order delivery 
 risk prediction, fraud detection, and sales prediction.
 
-The dataset is made up of 180519 observations and 53 columns (attributes).
+The dataset is made up of 180,519 observations and 53 columns (attributes).
 
 Dataset source: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 ----------------------------------------------------------------------------------------------------------------------------------------
