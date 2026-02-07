@@ -1,14 +1,14 @@
 #  Optimisation of Supply Chain Management
  Optimisation of Supply Chain Management Using Machine Learning Algorithms
 
-This project aims to optimize the supply chain using machine learning algorithms to make the process more efficient and cost-effective. 
+This project aims to optimise the supply chain using machine learning algorithms to make the process more efficient and cost-effective. 
 By applying machine learning techniques, the project can identify patterns, make predictions, and improve decision-making.
 
 
 Project Overview
 ---------------------------------------------------------------------------------------------------------------------------------------
 The supply chain is a complex process that involves the management of goods and services from suppliers to customers. 
-Optimization of the supply chain requires balancing the costs and resources involved while meeting customer demand. 
+Optimisation of the supply chain requires balancing the costs and resources involved while meeting customer demand. 
 This project aims to develop a machine learning model that can optimize the supply chain process via order delivery 
 risk prediction, fraud detection, and sales prediction.
 
